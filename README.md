@@ -1,7 +1,7 @@
 ### Hey,
-I'm currently a student at Polish-Japanese Academy of Information Technology
+###I'm currently a student at Polish-Japanese Academy of Information Technology
 
-Email: adrian.janus2021@gmail.com
+###Email: adrian.janus2021@gmail.com
 
 <!--
 **AdrianJanus2021/AdrianJanus2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
