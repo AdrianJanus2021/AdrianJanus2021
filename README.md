@@ -5,7 +5,7 @@ e-mail: adrian.janus2021@gmail.com
 
 Linkedin: [Adrian Janus][1]
 
-[1]: linkedin.com/in/adrian-janus-1b13112b3            "Adrian Janus"
+[1]: https://www.linkedin.com/in/adrian-janus-1b13112b3            "Adrian Janus"
 
 <!--
 **AdrianJanus2021/AdrianJanus2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
