@@ -2,6 +2,7 @@
 I'm currently a student at Polish-Japanese Academy of Information Technology
 
 e-mail: adrian.janus2021@gmail.com
+Linkedin: "[Adrian Janus](linkedin.com/in/adrian-janus-1b13112b3)"
 
 <!--
 **AdrianJanus2021/AdrianJanus2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
