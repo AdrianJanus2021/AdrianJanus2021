@@ -3,9 +3,9 @@ I'm currently a student at Polish-Japanese Academy of Information Technology
 
 e-mail: adrian.janus2021@gmail.com
 
-Linkedin: [Wikipedia][1]
+Linkedin: [Adrian Janus][1]
 
-[1]: https://wikipedia.org            "Wikipedia"
+[1]: linkedin.com/in/adrian-janus-1b13112b3            "Adrian Janus"
 
 <!--
 **AdrianJanus2021/AdrianJanus2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
